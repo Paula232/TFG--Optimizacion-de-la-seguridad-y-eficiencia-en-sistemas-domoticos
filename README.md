@@ -7,7 +7,7 @@ ENCHUFE:
 - establecimientoconex+comportamiento30minenchufe.pcapng --> es la captura donde se puede observar el inicio de conexión del enchufe y su comportamiento durante aproximadamente 30 minutos.
 - apagadomanual.pcapng --> es la captura donde se puede observar el tráfico que se genera activando/descativando el enchufe manualmente.
 - encenderapagardesdeTuya.pcapng --> es la captura donde se puede observar el tráfico que se genera activando/desactivando el enchufe desde su aplicación Tuya Smart.
-- encenderapagardesdeHA.pcapng --> es la captura donde se puede observar el tráfico que se genera activando/desactivando el enchufe desde la interfaz de Home Assistant.
+- enchufeon.pcapng --> es la captura donde se puede observar el tráfico que se genera activando/desactivando el enchufe desde la interfaz de Home Assistant.
 
 INTERRUPTOR:
 
